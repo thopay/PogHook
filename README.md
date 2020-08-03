@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://media.discordapp.net/attachments/562041975797317643/739883674979532810/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/562041975797317643/739885231284158520/unknown.png">
 
 This is designed to replicate the success webhooks of various sneaker bots (currently only Kodai and Ganesh). 
 
