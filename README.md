@@ -112,6 +112,6 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
+Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
 Project Link: [https://github.com/th-ms/PogHook](https://github.com/th-ms/PogHook)
