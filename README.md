@@ -7,12 +7,12 @@
   <p align="center">
     Easily replicate sneaker success checkouts.
     <br />
-    <a href="https://github.com/th-ms/PogHook"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/PogHook"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th-ms/PogHook">Report Bug</a>
+    <a href="https://github.com/thopay/PogHook">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/PogHook">Request Feature</a>
+    <a href="https://github.com/thopay/PogHook">Request Feature</a>
   </p>
 </p>
 
@@ -85,7 +85,7 @@ After entering the webhook details, the script should send a properly formatted 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/th-ms/PogHook/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/PogHook/issues) for a list of proposed features (and known issues).
 
 
 
@@ -114,4 +114,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/PogHook](https://github.com/th-ms/PogHook)
+Project Link: [https://github.com/thopay/PogHook](https://github.com/thopay/PogHook)
