@@ -61,7 +61,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/PogHook.git
+git clone https://github.com/thopay/PogHook.git
 ```
 2. Install dependencies
 ```sh
